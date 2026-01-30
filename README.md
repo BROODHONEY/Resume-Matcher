@@ -12,12 +12,12 @@ This project extracts text from real resumes (PDF/DOCX) stored inside the `resum
 
 ## Features
 
-- ✅ Parse resumes in **PDF and DOCX** formats
-- ✅ Extract and clean resume text
-- ✅ Embed resumes and job descriptions using **Sentence-BERT**
-- ✅ Calculate semantic similarity with **cosine similarity**
-- ✅ Rank resumes based on relevance to the job description
-- ✅ Interactive Jupyter Notebook-based exploration
+- Parse resumes in **PDF and DOCX** formats
+- Extract and clean resume text
+- Embed resumes and job descriptions using **Sentence-BERT**
+- Calculate semantic similarity with **cosine similarity**
+- Rank resumes based on relevance to the job description
+- Interactive Jupyter Notebook-based exploration
 
 ---
 
